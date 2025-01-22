@@ -49,7 +49,7 @@ Current Game Board:
  7 | 8 | 9 
 
 Player 2 (O), Enter a number from 1-9: 5
-...
+
 
 ## How to Run
 
@@ -61,4 +61,5 @@ Player 2 (O), Enter a number from 1-9: 5
    - Execute the game with the command:
      ```bash
      dart run tic_tac_toe.dart
+...
      ```
