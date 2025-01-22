@@ -38,17 +38,6 @@ This is a simple command-line Tic Tac Toe game implemented in Dart. The game all
 4. After the game ends, you can choose to replay or exit:
    - Enter `1` to play another round.
    - Enter `0` to quit the game.
-## How to Run
-
-1. **Install Dart**: Make sure Dart is installed on your system. You can download Dart from [dart.dev](https://dart.dev/get-dart).
-2. **Save the File**: Copy the game code into a file named `tic_tac_toe.dart`.
-3. **Run the Game**:
-   - Open a terminal or command prompt.
-   - Navigate to the directory where the `tic_tac_toe.dart` file is saved.
-   - Execute the game with the command:
-     ```bash
-     dart run tic_tac_toe.dart
-     ```
 
 ## Example Gameplay
 
