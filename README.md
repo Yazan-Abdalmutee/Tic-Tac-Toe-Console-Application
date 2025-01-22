@@ -9,8 +9,6 @@ This is a simple command-line Tic Tac Toe game implemented in Dart. The game all
 - Detects the winner or a draw condition.
 - Allows replaying the game or exiting after each round.
 
-
-
 ## Gameplay Instructions
 
 1. The game alternates turns between Player 1 (`X`) and Player 2 (`O`).
